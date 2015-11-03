@@ -1,0 +1,4 @@
+Base of numeral system (from 4 to 35):
+10
+Repetitions:
+3
